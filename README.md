@@ -1,7 +1,7 @@
-##<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> Olá! Meu Nome é Karoline Santato
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> Olá! Meu Nome é Karoline Santato
 
 
-- 👩‍💻 Tenho interesse em desenvolver Front-End Jr, sou apaixonada pelo mundo dos códigos e uma eterna estudante, gosto de aprender e saber um pouco sobre tudo, tenho curiosidade em saber como tudo funciona, procuro compartilhar o máximo dos conhecimentos adquiridos e ajudar todos aqueles que sou capaz. Resolvo problemas de forma criativa, desenvolvo melhorando a experiência de pessoas e trazendo mais resultados. Persistência, curiosidade e atenção a cada detalhe me definem ⚡. Com background em sistemas para internet e experiência em design gráfico e digital, estou sempre me atualizando. 😄🔭 
+- 👩‍💻 Sou apaixonada pelo mundo dos códigos e uma eterna estudante, gosto de aprender e saber um pouco sobre tudo, tenho curiosidade em saber como tudo funciona, procuro compartilhar o máximo dos conhecimentos adquiridos e ajudar todos aqueles que sou capaz. Resolvo problemas de forma criativa, desenvolvendo e melhorando a experiência e trazendo mais resultados. Persistência, curiosidade e atenção em cada detalhe⚡. Com background em sistemas para internet e experiência em design gráfico e digital, estou sempre me atualizando.😄🔭 
   
  ##
 
